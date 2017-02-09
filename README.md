@@ -1,6 +1,6 @@
 #Prime-Numbers
 
-Prime numbers is a project designated to help you find out information about *whatever* you want!
+Prime numbers is a project designated to help you find out information about *whatever* integer you want!
 
 It accomplishes the following:
 
