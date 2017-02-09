@@ -2,11 +2,11 @@ import static org.junit.Assert.*;
 
 import org.junit.Test;
 // TEMPORARY - DELETE WHEN FINISHED!!!
-public class PrimeCheckTest {
+public class PrimeTest {
 
 	@Test
 	public void test() {
-		// No current tests.
+		assertEquals(PrimeCheck.isPrime(1), null);
 	}
 
 }
